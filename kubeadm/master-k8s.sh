@@ -1,5 +1,6 @@
 #!/bin/bash
 #i1) Switch to root user [ sudo -i]
+sudo -i
 
 sudo hostnamectl set-hostname  node1
 
